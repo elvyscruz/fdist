@@ -1,6 +1,6 @@
 var exports = module.exports = {}
 
-exports.freqDist = function (arr) {
+exports.fDist = function (arr) {
 
 if(Array.isArray(arr)){
 
