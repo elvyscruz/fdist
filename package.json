@@ -1,5 +1,5 @@
 {
-  "name": "frequency",
+  "name": "fDist",
   "version": "1.0.0",
   "description": "Returns the frequency distribution from an array of data",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/elvyscruz/frequency.git"
+    "url": "git+https://github.com/elvyscruz/fDist.git"
   },
   "keywords": [
     "frequency",
@@ -17,7 +17,7 @@
   "author": "elvyscruz <elvys.cruz@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/elvyscruz/frequency/issues"
+    "url": "https://github.com/elvyscruz/fDist/issues"
   },
-  "homepage": "https://github.com/elvyscruz/frequency#readme"
+  "homepage": "https://github.com/elvyscruz/fDist#readme"
 }
