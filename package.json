@@ -1,5 +1,5 @@
 {
-  "name": "fDist",
+  "name": "fdist",
   "version": "1.0.0",
   "description": "Returns the frequency distribution from an array of data",
   "main": "index.js",
