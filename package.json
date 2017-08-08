@@ -1,7 +1,7 @@
 {
   "name": "fdist",
   "version": "1.0.0",
-  "description": "Returns the frequency distribution from an array of data",
+  "description": "Creates a frequency distribution from an array of data",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
