@@ -1,4 +1,4 @@
-# Fist
+# fDist
 Node module that generates the frequency distribution from an array of data
 
 Usage:
